@@ -78,5 +78,6 @@
 写入文件
 ### 4.实验结果
 ![images](https://github.com/Linjieken/java6/blob/master/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20191209001207.png)
+![images](https://github.com/Linjieken/java6/blob/master/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20191209001332.png)
 ### 5.实验感想
 这次的实验涉及的范围较为广阔、全面，也是对于综合能力的考量。在设置GUI窗体支持学生注册这一项中，我遭遇了很大的挑战。
