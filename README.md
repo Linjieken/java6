@@ -48,7 +48,7 @@
             System.out.println("异常信息：" + e.getMessage());
         }
     }
-读取文件
+
 
         public static String readText() {
         String filetext = null;//读取的信息
@@ -75,7 +75,7 @@
             e.printStackTrace();
             System.out.println("异常信息：" + e.getMessage());
         }
-写入文件
+
 ### 4.实验结果
 ![images](https://github.com/Linjieken/java6/blob/master/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20191209001207.png)
 学生选课页面
