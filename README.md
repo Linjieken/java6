@@ -49,7 +49,7 @@
         }
     }
 读取文件
-    public static String readText() {
+        public static String readText() {
 
         String filetext = null;//读取的信息
         int num = 0;
