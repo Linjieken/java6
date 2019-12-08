@@ -79,8 +79,10 @@
 ### 4.实验结果
 ![images](https://github.com/Linjieken/java6/blob/master/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20191209001207.png)
 学生选课页面
+
 ![images](https://github.com/Linjieken/java6/blob/master/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20191209001332.png)
 学生选课打印页面
+
 ![images](https://github.com/Linjieken/java6/blob/master/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20191209001233.png)
 txt文件的读取与写入
 ### 5.实验感想
